@@ -1,0 +1,2 @@
+# mithtables
+Mithril datatable component
